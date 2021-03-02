@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertisseur</string>
+    <string name="distance">distance</string>
+    <string name="temperature">" temperature"</string>
+    <string name="convertir">convert</string>
+    <string name="masse">" mass"</string>
+    <string name="plus">" more"</string>
+</resources>

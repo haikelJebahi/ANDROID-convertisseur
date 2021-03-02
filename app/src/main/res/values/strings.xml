@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Convertisseur</string>
+    <string name="distance">distance</string>
+    <string name="temperature">temperature</string>
+    <string name="convertir">Convertir</string>
+    <string name="masse">masse</string>
+    <string name="plus">plus</string>
+    <string-array name="distance_array">
+        <item>km</item>
+        <item>m</item>
+        <item>dm</item>
+        <item>cm</item>
+        <item>mm</item>
+    </string-array>
+    <string-array name="temperature_array">
+        <item>Degré celsius</item>
+        <item>Degré Farhrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="masse_array">
+        <item>kg</item>
+        <item>g</item>
+        <item>dg</item>
+        <item>cg</item>
+        <item>mg</item>
+    </string-array>
+</resources>
